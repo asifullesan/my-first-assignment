@@ -6,7 +6,7 @@ body{
 }
 
 .header-section{
-    background-image: url(/images/header\ bannar.png);
+    background-image: url(/img/header\ bannar.png);
     background-repeat: no-repeat;
     height: 100vh;
     background-size: cover;
