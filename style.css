@@ -77,3 +77,39 @@ body{
    margin-left: 250px; 
    margin-top: 5px;
 }
+
+
+.item-area{
+    margin-top: 50px;
+}
+
+.our-item{
+    text-align: center;
+}
+
+.our-item-text{
+    font-size: 30px;
+}
+
+.food-item-area{
+    display: flex;
+    margin-top: 50px;
+}
+
+.food-item{
+    width: 25%;
+    margin-left: 5%;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px gray;
+} 
+
+.food-item img{
+    border-radius: 20px;
+
+    width: 100%;
+}
+
+.tasty-ice-crream{
+    margin-right: 5%;
+}
