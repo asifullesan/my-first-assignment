@@ -6,7 +6,7 @@ body{
 }
 
 .header-section{
-    background-image: url(/img/header\ bannar.png);
+    background-image: url(img/headerbannar.png);
     background-repeat: no-repeat;
     height: 100vh;
     background-size: cover;
@@ -112,4 +112,25 @@ body{
 
 .tasty-ice-crream{
     margin-right: 5%;
+}
+
+
+
+.about-area{
+    background-image: url(img/aboutbannar.jpg);
+    margin-top:100px;
+    display: flex;
+    height: 495px;
+}
+
+
+.about-text-area{
+    color: white;
+    margin-right: 150px;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+.about-title{
+    font-size: 30px;
 }
