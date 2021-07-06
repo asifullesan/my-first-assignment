@@ -165,3 +165,20 @@ body{
 .area-item p{
     margin-top: -20px;
 }
+
+
+.footer-area{
+    height: 200px;
+    background-color: black;
+    margin-top: 100px;
+}
+
+.footer-title{
+    font-size: 15px;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+.text-color{
+    color: rgb(255, 94, 0);
+}
